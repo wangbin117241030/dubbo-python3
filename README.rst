@@ -13,6 +13,13 @@ Python calls the Dubbo interface's jsonrpc protocol
 Installation
 ~~~~~~~~~~~~
 
+https://github.com/nickfan/dubbo-python3
+
+pip install dubbo-python3
+or
+
+pip install git+https://github.com/nickfan/dubbo-python3.git@1.0.1
+
 | Download code
 | python setup.py install
 | pip install
